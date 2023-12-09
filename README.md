@@ -10,8 +10,7 @@ Deployment Status: ![Deployment Status](https://github.com/bardia-p/OpinionOwl/a
 - [Max Curkovic](https://github.com/maxcurkovic)
 - [Dorothy Tran](https://github.com/dorothytran)
 - [Anthony Massaad](https://github.com/Anthony-Massaad)
-- Cassidy Pacada
-
+  
 ## Description:
 
 A mini version of SurveyMonkey in which surveyors can create a survey with a three categories of questions. These include open-ended questions with a text-based answer,
@@ -78,4 +77,4 @@ Other changes that were also made was to add more thorough testing and resolve w
 ## Diagrams
 
 - [UML diagram](diagrams/UML_Class_Diagram.png)
-- [Schema Diagram](diagrams/ER_Diagram.png)
+- [Schema diagram](diagrams/ER_Diagram.png)
